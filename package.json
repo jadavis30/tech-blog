@@ -1,0 +1,22 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "Blog site for tech news and users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadavis30/tech-blog.git"
+  },
+  "keywords": [
+    "tech"
+  ],
+  "author": "Jared Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadavis30/tech-blog/issues"
+  },
+  "homepage": "https://github.com/jadavis30/tech-blog#readme"
+}
